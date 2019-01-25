@@ -12,7 +12,7 @@
   <title>Final work</title>
 </head>
 
-<body>
+<body background="../public/assets/img/7bc056bd48ffe3d4d56ebd5488495ebb.jpg">
 
   <div class="container-fluid">
     <div class="row myNav ">
