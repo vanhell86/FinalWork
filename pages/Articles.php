@@ -14,7 +14,7 @@
         
 
         <div class="row articlePage">
-            <div class="col-sm-auto-2 imageCol">
+            <div class="col-sm-auto-2 ">
                 <img class=" " src="../public/assets/img/cats-animal-eye-cat-amazing-kitten-black-wallpaper-iphone-1024x768.jpg" alt="Ninja-cat">
             </div>
             <div class="col-sm-10 articleText">
@@ -39,7 +39,7 @@
 
 
         <div class="row articlePage">
-            <div class="col-sm-auto-2 imageCol">
+            <div class="col-sm-auto-2 ">
                 <img class=" " src="../public/assets/img/cat-wallpaper-5.jpg" alt="Ninja-cat">
             </div>
             <div class="col-sm-10 articleText">
@@ -63,7 +63,7 @@
         </div>
 
         <div class="row articlePage">
-            <div class="col-sm-auto-2 imageCol">
+            <div class="col-sm-auto-2 ">
                 <img class=" " src="../public/assets/img/cat_19018.jpg" alt="Ninja-cat">
             </div>
             <div class="col-sm-10 articleText">

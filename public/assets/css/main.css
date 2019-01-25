@@ -14,7 +14,6 @@
 }
 
 .logo {
-    flex: 100%;
     max-height: 92px;
     border-radius: 100%;
 }
@@ -63,9 +62,6 @@
 }
 
 .articleImg {
-    flex: 100%;
-    width: 100%;
-    overflow: hidden;
     margin: 5px;
     border: 2px solid black;
 }
@@ -81,17 +77,9 @@ ol#breadcrumb li+li:before {
 }
 
 .row.articlePage img {
-
-    width: auto;
     height: 125px;
     max-width: 140px;
     margin: 0 auto;
-}
-
-.imageCol {
-    width: 140px;
-    height: 125px;
-    justify-content: center;
 }
 
 .row.articlePage a, .row.articlePage p {
@@ -129,21 +117,16 @@ ol#breadcrumb li+li:before {
 }
 
 .col.first-row-column {
-    flex: 100%;
-    width: 100%;
     padding: 0 7px;
 }
 
 .col.second-row-column {
-    flex: 33.333%;
-    max-width: 33.333333%;
     padding: 0 7px;
 }
 
 .col img {
     margin-bottom: 9px;
     margin-top: 5px;
-    vertical-align: middle;
     width: 100%;
 }
 
@@ -152,7 +135,6 @@ ol#breadcrumb li+li:before {
 }
 
 #my_row div.col-md-8.col-sm-12 {
-    flex: 100%;
     text-align: justify;
     padding: 0px;
     padding-left: 35px;
@@ -162,7 +144,6 @@ ol#breadcrumb li+li:before {
 /* Register lapa */
 
 .col-md-4 input, .col-md-4 select {
-    flex: 100%;
     width: 100%;
     padding: 5px;
     margin: 5px;
@@ -170,7 +151,6 @@ ol#breadcrumb li+li:before {
 
 #submitBtn {
     border: 1px solid black;
-    flex: 100%;
     width: 50%;
 }
 
@@ -183,7 +163,6 @@ option[value=""][disabled] {
 }
 
 #terms {
-    flex: 100%;
     padding: 5px;
     margin: 5px;
     width: auto;
@@ -300,12 +279,3 @@ html {
     padding-bottom: 60px;
     /*lai būtu atstarpe starp footer un pēdējo elem*/
 }
-
-/* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
-
-/* @media screen and (max-width: 500px) {
-    .navbar a {
-      /* float: none; 
-      display: block;
-    }
-  } */
